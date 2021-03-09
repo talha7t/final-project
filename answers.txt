@@ -64,3 +64,6 @@ A value named “color” is hidden in an html page. What is the correct way to 
 Line1. User usrObj= new User(“abc”); Line2. Cookie ck= new Cookie(“User”, usrObj); Line3. HttpResponse.addCookie(ck); Above lines of code are intended to store user information in cookie. Which line of code is wrong
 Line 1
 
+A servlet shows the total number of visitors of website. The most appropriate way to do this is using
+Cookie Value
+
