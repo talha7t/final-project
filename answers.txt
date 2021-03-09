@@ -34,3 +34,5 @@ HttpSession.setAttribute() method
 Which statement is correct about static variable in java
 Static variable is declared once but can be assigned values in multiple methods of class
 
+In 3 tier web application architecture, label layers in given order
+Presentation, Business logic, Data
