@@ -55,3 +55,6 @@ JAVA_HOME
 This is the table holding patient’s data in an online Hospital management system. A servlet sends a query to this database and need to show patients name and age respectively on a web page. ResultSet data = statement.executeQuery("select * from Patient ;"); while (data.next()) { _______________________________ } What is the correct way to get required columns? 
 data.getInt(0); data.getString(1)
 
+@WebServlet(urlPatterns = { _______________ })The value of urlPatterns can be
+a and b both
+
