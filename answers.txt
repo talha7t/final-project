@@ -3,3 +3,12 @@ Servlet Container
 
 web.xml is the file used for defining web application configuration. It is available in servlet using
 ServletConfig
+
+html pages in eclipse Dynamic web project are stored in _______________ folder.
+WebContent
+
+RegisterCourse is a custom servlet class used in an online Student management System. The code of this class is public class RegisterCourse _______________ HttpServlet {…………}
+extends
+
+Default ports for MySQL server, Tomcat, SQL Server are respectively 
+8080, 8005, 1433
