@@ -46,4 +46,9 @@ CGI
 Which one is correct
 CGI is C based web technology whereas Servlets are Java based.
 
+Model classes are used to
+All of the above
+
+The name of environment variable that need to be set to Tomcat directory is
+JAVA_HOME
 
