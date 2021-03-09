@@ -39,3 +39,11 @@ Presentation, Business logic, Data
 
 log4j can outputs log messages to 
 a and b both
+
+Before Servlets, following technologies were in use to create dynamic web pages
+CGI
+
+Which one is correct
+CGI is C based web technology whereas Servlets are Java based.
+
+
