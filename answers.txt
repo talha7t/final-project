@@ -58,3 +58,6 @@ data.getInt(0); data.getString(1)
 @WebServlet(urlPatterns = { _______________ })The value of urlPatterns can be
 a and b both
 
+A value named “color” is hidden in an html page. What is the correct way to do it?
+<INPUT TYPE="HIDDEN" NAME="color" VALUE="blue"/>
+
