@@ -25,3 +25,9 @@ a web application
 To delete a cookie
 Cookie.setMaxAge(0)
 
+Session API in servlets uses
+All the above
+
+HttpSession is used to track user data. To store a value, which method is used?
+HttpSession.setAttribute() method
+
