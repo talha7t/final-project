@@ -12,3 +12,9 @@ extends
 
 Default ports for MySQL server, Tomcat, SQL Server are respectively 
 8080, 8005, 1433
+
+To send output data on html page, ___________method of ___________ is used
+getWriter, HttpResponse
+
+what is the tag used to write servlet code in jsp page 
+<% %>
