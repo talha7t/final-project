@@ -18,3 +18,10 @@ getWriter, HttpResponse
 
 what is the tag used to write servlet code in jsp page 
 <% %>
+
+The scope of ServletContext context parameter is within
+a web application
+
+To delete a cookie
+Cookie.setMaxAge(0)
+
