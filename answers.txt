@@ -1,1 +1,5 @@
-sdfdsfd
+Choose most appropriate answer. The lifecycle of a servlet is managed by 
+Servlet Container
+
+web.xml is the file used for defining web application configuration. It is available in servlet using
+ServletConfig
