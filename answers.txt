@@ -61,3 +61,6 @@ a and b both
 A value named “color” is hidden in an html page. What is the correct way to do it?
 <INPUT TYPE="HIDDEN" NAME="color" VALUE="blue"/>
 
+Line1. User usrObj= new User(“abc”); Line2. Cookie ck= new Cookie(“User”, usrObj); Line3. HttpResponse.addCookie(ck); Above lines of code are intended to store user information in cookie. Which line of code is wrong
+Line 1
+
