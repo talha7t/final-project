@@ -67,3 +67,9 @@ Line 1
 A servlet shows the total number of visitors of website. The most appropriate way to do this is using
 Cookie Value
 
+What is the age of cookie Cookie ck= new Cookie("name", value); ck.setMaxAge(172,800);
+one hour
+
+To setup log4j for debugging java application, following configuration file is set using
+PropertyConfigurator.configure("C://Users//…..//logging.log");
+
