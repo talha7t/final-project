@@ -36,3 +36,6 @@ Static variable is declared once but can be assigned values in multiple methods 
 
 In 3 tier web application architecture, label layers in given order
 Presentation, Business logic, Data
+
+log4j can outputs log messages to 
+a and b both
