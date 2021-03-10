@@ -42,3 +42,9 @@ New Forest
 
 RLDS stands for
 Root level domain server
+
+DHCP server replies with an IP address, subnet mask, network gateway, name of the domain, name servers, duration of the lease and the IP address of the DHCP server during
+lease offer
+
+DHCP lease process renewal begin again after …………. Lease duration has expired
+50%
