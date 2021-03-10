@@ -1,4 +1,13 @@
 Supports two or more processors that running programs at the same time called ______________ transmission
 Multi-user OS
 
+The information within the message or transaction is not tampered accidentally or deliberately is called
+Data Integrity
+
+IANA stands for 
+Internet Assigned Numbers Authority
+
+A —————— group is a group that contains the same users as an OU. 
+Shadow
+
 
