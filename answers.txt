@@ -18,3 +18,12 @@ Group Policy Objects
 
 Who is responsible to issue the digital certificates?
 CA
+
+A sector is a group of …….. bits a minimum addressable unit of the physical storage.
+512
+
+A digital certificate is a digital file or an electronic "password" that allows a person, organization to exchange data securely over the Internet using the
+Public key infrastructure
+
+To configure local server the starting point of configuration is
+Add role and features
