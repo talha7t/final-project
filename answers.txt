@@ -39,3 +39,6 @@ Reverse Order of the IP
 
 After complete installation DNS and ADDS, it’s necessary to prompt the server to a 
 New Forest
+
+RLDS stands for
+Root level domain server
