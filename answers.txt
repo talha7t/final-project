@@ -57,3 +57,7 @@ Domainn Name System
 
 Each DNS Zone stores information of contiguous DNS domain(s)
 One
+
+DNS provides hierarchal name space ensuring that each hostname will be unique
+Both Within the local area Network & Wide Area Network
+
