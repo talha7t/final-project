@@ -10,4 +10,11 @@ Internet Assigned Numbers Authority
 A —————— group is a group that contains the same users as an OU. 
 Shadow
 
+How do you create a group by using Active Directory Users and Computers snap-in?
+Right-click on the OU in find which you want to create a group, select new, and choose group
 
+The collections of user and computer settings are referred to as
+Group Policy Objects
+
+Who is responsible to issue the digital certificates?
+CA
