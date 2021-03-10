@@ -48,3 +48,7 @@ lease offer
 
 DHCP lease process renewal begin again after …………. Lease duration has expired
 50%
+
+How to link a GPO to a site? 
+Right click the domain to link a GPO and select “link an existing GPO
+
