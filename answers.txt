@@ -27,3 +27,15 @@ Public key infrastructure
 
 To configure local server the starting point of configuration is
 Add role and features
+
+FAT12 can use up to …… different block references
+4096
+
+Policies can either be configured at
+Local-level or within the active directory
+
+In the reverse lookup zone, you have to type network ID in
+Reverse Order of the IP
+
+After complete installation DNS and ADDS, it’s necessary to prompt the server to a 
+New Forest
