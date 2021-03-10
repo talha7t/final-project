@@ -52,3 +52,6 @@ DHCP lease process renewal begin again after …………. Lease duration has ex
 How to link a GPO to a site? 
 Right click the domain to link a GPO and select “link an existing GPO
 
+DNS Stands for 
+Domainn Name System
+
