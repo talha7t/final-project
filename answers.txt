@@ -61,3 +61,6 @@ One
 DNS provides hierarchal name space ensuring that each hostname will be unique
 Both Within the local area Network & Wide Area Network
 
+DNS translate IP Addresses into
+Domain
+
