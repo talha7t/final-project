@@ -64,3 +64,5 @@ Both Within the local area Network & Wide Area Network
 DNS translate IP Addresses into
 Domain
 
+When multiple GPOs that applies to a user or computer, GPOs are applied in the following order of precedence
+GPOs linked to the forest, tree, domain, and OU where users and computers resides
