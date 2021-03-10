@@ -66,3 +66,7 @@ Domain
 
 When multiple GPOs that applies to a user or computer, GPOs are applied in the following order of precedence
 GPOs linked to the forest, tree, domain, and OU where users and computers resides
+
+Remote desktop services installation configures and install
+Both Configure a single server by adding roles and Create a virtual based installation
+
