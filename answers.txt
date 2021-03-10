@@ -55,3 +55,5 @@ Right click the domain to link a GPO and select “link an existing GPO
 DNS Stands for 
 Domainn Name System
 
+Each DNS Zone stores information of contiguous DNS domain(s)
+One
