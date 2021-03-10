@@ -70,3 +70,5 @@ GPOs linked to the forest, tree, domain, and OU where users and computers reside
 Remote desktop services installation configures and install
 Both Configure a single server by adding roles and Create a virtual based installation
 
+Which types are mentioned to specify to update the zones of DNS? 
+Allow only secure dynamic update
