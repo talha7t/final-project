@@ -25,3 +25,9 @@ Stronger
 _________ model illustrates software classes
 design
 
+__________ is correct form of multiplicity.
+None mentioned
+
+How to enhance reusability?
+Low coupling and high cohesion
+
