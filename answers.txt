@@ -12,3 +12,16 @@ both options
 
 State machine diagram is also termed as _____________
 both options
+
+Which of the following diagram is time oriented?
+sequence diagram
+
+Objects interaction with other objects via messages ___________in execution of an operation
+Sequence diagram
+
+Composition is __________ form of aggregation.
+Stronger
+
+_________ model illustrates software classes
+design
+
