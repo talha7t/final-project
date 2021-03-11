@@ -55,3 +55,9 @@ stable
 Pure fabrication is_________ of the imagination
 figment
 
+Deposit is an example of __________
+usecase
+
+Adapter Pattern offers ___________ from changing external interfaces.
+protected variations
+
