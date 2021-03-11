@@ -63,3 +63,7 @@ protected variations
 
 Separation of concerns gives rise to___________
 high cohesion
+
+modularity is the property of a system that has been decomposed into a set of cohesive and _________ modules
+loosely coupled
+
