@@ -1,2 +1,14 @@
 Which of the following mechanisms is/are provided by Object Oriented Language to implement Object Oriented Model?
 All
+
+The Adapter patterns provide object-oriented adapters in which of these varieties?
+All of the mentioned
+
+If you are working on real-time process control applications or systems that involve concurrent processing, you would use a
+Statechart diagram
+
+____________ cannot be a controller class?
+both options
+
+State machine diagram is also termed as _____________
+both options
