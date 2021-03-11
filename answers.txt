@@ -61,3 +61,5 @@ usecase
 Adapter Pattern offers ___________ from changing external interfaces.
 protected variations
 
+Separation of concerns gives rise to___________
+high cohesion
