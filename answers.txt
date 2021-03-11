@@ -34,3 +34,15 @@ Low coupling and high cohesion
 _____________ is a measure that how strongly one element is connected to other element.
 coupling
 
+Which of the following is the functionality of ‘Data Abstraction’?
+Reduce Complexity
+
+Which pattern resembles to Creator Principle?
+Factory
+
+GRASP stands for ______________
+General patterns in assigning responsibilities
+
+Association _________arrowhead indicates relationship between use case and business actor
+Without
+
