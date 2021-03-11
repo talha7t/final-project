@@ -73,3 +73,12 @@ override
 A class with _________ cohesion does focused things.
 high cohesion
 
+The intermediary objects create ________ between other components.
+indirection 
+
+__________ relation reduces redundancy among use cases
+both options
+
+__________ diagrams are constructed using Popkin’s architect
+physical
+
