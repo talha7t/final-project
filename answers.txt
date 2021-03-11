@@ -1,1 +1,2 @@
-hunny
+Which of the following mechanisms is/are provided by Object Oriented Language to implement Object Oriented Model?
+All
