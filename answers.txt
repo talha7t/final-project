@@ -46,3 +46,5 @@ General patterns in assigning responsibilities
 Association _________arrowhead indicates relationship between use case and business actor
 Without
 
+Assign a responsibility to highly cohesive of responsibilities to an artificial class is __________
+fabrication
