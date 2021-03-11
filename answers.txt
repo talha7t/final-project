@@ -48,3 +48,10 @@ Without
 
 Assign a responsibility to highly cohesive of responsibilities to an artificial class is __________
 fabrication
+
+Protected variations corresponds to ___________ interface
+stable
+
+Pure fabrication is_________ of the imagination
+figment
+
