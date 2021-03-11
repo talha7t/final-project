@@ -31,3 +31,6 @@ None mentioned
 How to enhance reusability?
 Low coupling and high cohesion
 
+_____________ is a measure that how strongly one element is connected to other element.
+coupling
+
