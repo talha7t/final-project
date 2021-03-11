@@ -82,3 +82,5 @@ both options
 __________ diagrams are constructed using Popkin’s architect
 physical
 
+Which of following does not belong to “has a “relation”?
+inheritance
