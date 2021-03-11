@@ -88,3 +88,23 @@ inheritance
 Which of following is use case?
 Landing
 
+Multiple conflicting policies can be designed with ____________
+Strategy
+
+If child class exists at lowest level of inheritance hierarchy its referred as_______ class
+concrete
+
+Set of things that an object can do refer to as__________
+method
+
+____________ configuration corresponds to deployment diagram.
+SQL, Client, Server
+
+Adapter Pattern is a _______________ of the GRASP.
+specification
+
+Component diagram depicts the organization of _____________ divided into components.
+nodes
+
+“Shaheen Airline” is an example of __________
+class
