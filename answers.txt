@@ -77,3 +77,11 @@ Technology infusion
 
 Which of the following usually observe each activity on the internet of the victim, gather all information in the background, and send it to someone else?
 Spyware
+
+The general transformation cycle for information is:
+data to information to knowledge
+
+Fundamental challenge of knowledge transfer in multinational firms is
+Transferring tacit and explicit knowledge across borders.
+
+
