@@ -57,3 +57,15 @@ business environment
 
 The first stage in the problem-solving process is called the ______________ stage. During this stage, potential problems or opportunities are identified and defined.
 Monitoring
+
+The possibility of reduction of risk through the construction of a portfolio depends on the value of ________ between the two assets.
+Correlation coefficient
+
+Technology selection sub processes include all of the following except
+Feasibility analysis
+
+The extent to which technology permeates an area or department is called
+Technology infusion
+
+Which of the following usually observe each activity on the internet of the victim, gather all information in the background, and send it to someone else?
+Spyware
