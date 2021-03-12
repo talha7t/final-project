@@ -21,3 +21,9 @@ all of above
 
 What are characteristics of a programmed decision?
 Routine and non-complex
+
+Which of the following is not a type of decision?
+none of above
+
+Which type of worker knows how and when to apply technology?
+technology-literate knowledge worker
