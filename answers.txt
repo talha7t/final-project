@@ -84,4 +84,6 @@ data to information to knowledge
 Fundamental challenge of knowledge transfer in multinational firms is
 Transferring tacit and explicit knowledge across borders.
 
-
+ Acquisition evaluation involves
+ all of above
+ 
