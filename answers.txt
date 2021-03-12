@@ -46,3 +46,6 @@ Business Intelligence
 Which of the following knowledge can be articulated, codified, and stored in certain media?
 Explicit kNOWLEDGE
 
+Firms that are not positioned to develop specific technologies would turn to which of the following to help them develop those specific technologies?
+technology integration
+
