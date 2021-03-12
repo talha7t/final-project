@@ -93,3 +93,6 @@ Top management level
  We can compare the price earnings ratio of a market to its historical average to make judgement about, whether market is
 both a and b
 
+The problems which has no apparent solution is called
+dilemma
+
