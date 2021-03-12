@@ -104,3 +104,6 @@ dilemma
  
  Which of the following statement is true for actual definition of a problem?
  A contradictory state
+
+The technological environment has created which of the following that facilitate the flow of information, resources, and personnel for technology development and diffusion?
+technology integration
