@@ -43,3 +43,6 @@ all of above
 Which of the following is collective information about customers, competitors, business partners, competitive environments, and internal operations?
 Business Intelligence
 
+Which of the following knowledge can be articulated, codified, and stored in certain media?
+Explicit kNOWLEDGE
+
