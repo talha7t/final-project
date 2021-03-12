@@ -102,4 +102,5 @@ dilemma
  Portfolio Management includes management of which of the following
  investment plan
  
- 
+ Which of the following statement is true for actual definition of a problem?
+ A contradictory state
