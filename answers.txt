@@ -27,3 +27,7 @@ true
 
 Value chain:
 All of above
+
+The act of monitoring a process for its efficiency, a process that includes dimensions such as cost, timeliness, or quality is known as:
+Process control
+
