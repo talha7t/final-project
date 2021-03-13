@@ -10,3 +10,6 @@ Designing, Modeling, Execution, Monitoring and Optimization
 To bridge the gap between Conceptual “to-be” process models to Executable process models we need:
 all of above
 
+Business Process Model and Notation or BPMN, is used to build complex business process model flowcharts, which are shared to targeted organizations and industries
+True
+
