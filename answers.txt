@@ -43,3 +43,5 @@ all of above
 Business Process Management encompasses of following:
 Design, Implementation, Monitoring and continuous Improvement
 
+Production run length requires a balance between setup costs and holding costs to minimize total costs to the company:
+true
