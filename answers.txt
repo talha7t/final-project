@@ -67,3 +67,5 @@ User icon
 Process Performance of a business process model is measured using:
 Process Model + Performance of each activity
 
+Cycle Time Efficiency of a business process model is measured using:
+Processing Time ÷ Cycle Time
