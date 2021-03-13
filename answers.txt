@@ -45,3 +45,21 @@ Design, Implementation, Monitoring and continuous Improvement
 
 Production run length requires a balance between setup costs and holding costs to minimize total costs to the company:
 true
+
+It allow us to state that a task or a sub-process may be repeated multiple times:
+activity loop markers
+
+When something goes wrong outside the process, and the execution of the current activity must be interrupted. Handled with the Message event is :
+external exception
+
+Automated tasks are marked with:
+all of above
+
+It can happen all the time and for as intelligent as a modern system can be
+Prcoess Exceptions
+
+Manual tasks are marked with :
+hand icon
+
+User tasks are marked with :
+User icon
