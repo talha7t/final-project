@@ -90,3 +90,6 @@ false
 
 Which of the following represent the managerial approach to reengineering projects?
 Define the scope, analyze, evaluate, plan approve, execute
+
+Suppose that process A is a downstream process of process B. This is an example of what kind of relation
+hierarchical
