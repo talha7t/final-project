@@ -69,3 +69,6 @@ Process Model + Performance of each activity
 
 Cycle Time Efficiency of a business process model is measured using:
 Processing Time ÷ Cycle Time
+
+Performance Cost of a business process model is measured using:
+Processing Cost + Cost of Waste
