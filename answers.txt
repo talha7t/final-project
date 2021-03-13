@@ -1,2 +1,9 @@
 If a task has two input arcs, it is the same as if the task was preceded by:
 XOR-join
+
+Resource Utilization within a business process model is measured using:
+Time spent per resource on process work ÷ Time available per resource for process work
+
+Business Process Management life-cycle includes following:
+Designing, Modeling, Execution, Monitoring and Optimization
+
