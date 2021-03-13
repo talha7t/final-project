@@ -21,3 +21,9 @@ insurance policy does not cover the damage
 
 If a task has two output arcs (also called flows), it is the same as if the task was followed by:
 And-Split
+
+External exceptions, Internal exceptions and Time out all are catching intermediate events. They stop the enclosing activities and start an exception handling routine.
+true
+
+Value chain:
+All of above
