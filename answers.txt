@@ -77,4 +77,7 @@ Cycle Time of a business process model is measured using:
 Processing time + waiting time
 
 What attempts to understand and measure the current process, and make performance improvements accordingly?
-Continuous Improvement
+Continuous process Improvement
+
+In an XOR-split gateway, one branch is chosen based on expressions evaluated over available data.
+true
