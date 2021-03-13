@@ -105,3 +105,7 @@ cycle time of AND gateway
 
 Basic principle of identification of automation boundaries is: not all parts of the process can be automated:
 true
+
+Which of the following statement(s) do NOT hold?
+A message flow can connect a task in a pool to another task in the same pool
+
