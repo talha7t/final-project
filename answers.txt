@@ -37,4 +37,5 @@ terminate event
 Exceptions are events that deviate a process from its “normal” course
 true 
 
-
+Main elements of BPM:
+all of above
