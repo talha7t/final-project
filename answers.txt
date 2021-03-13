@@ -39,3 +39,7 @@ true
 
 Main elements of BPM:
 all of above
+
+Business Process Management encompasses of following:
+Design, Implementation, Monitoring and continuous Improvement
+
