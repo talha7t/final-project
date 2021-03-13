@@ -63,3 +63,7 @@ hand icon
 
 User tasks are marked with :
 User icon
+
+Process Performance of a business process model is measured using:
+Process Model + Performance of each activity
+
