@@ -72,3 +72,6 @@ Processing Time ÷ Cycle Time
 
 Performance Cost of a business process model is measured using:
 Processing Cost + Cost of Waste
+
+Cycle Time of a business process model is measured using:
+Processing time + waiting time
