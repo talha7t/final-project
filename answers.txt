@@ -84,3 +84,7 @@ true
 
 A generic term to refer to anyone or anything involved in the performance of a process activity:
 resources
+
+Gateways not are responsible for controlling how a business process flows:
+false
+
