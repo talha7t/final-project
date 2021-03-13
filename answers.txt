@@ -96,3 +96,6 @@ hierarchical
 
 Which type of gateway moves each token it receives in one of its input arcs to its output arc?
 XOR-JOIN
+
+A BPMS is intended to coordinate and manage handovers of work between multiple resources (human or non-human).
+bpms
