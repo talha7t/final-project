@@ -33,3 +33,8 @@ Process control
 
 It forces the whole process to abort:
 terminate event
+
+Exceptions are events that deviate a process from its “normal” course
+true 
+
+
