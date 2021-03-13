@@ -7,3 +7,6 @@ Time spent per resource on process work ÷ Time available per resource for proce
 Business Process Management life-cycle includes following:
 Designing, Modeling, Execution, Monitoring and Optimization
 
+To bridge the gap between Conceptual “to-be” process models to Executable process models we need:
+all of above
+
