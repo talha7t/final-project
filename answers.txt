@@ -81,3 +81,6 @@ Continuous process Improvement
 
 In an XOR-split gateway, one branch is chosen based on expressions evaluated over available data.
 true
+
+A generic term to refer to anyone or anything involved in the performance of a process activity:
+resources
