@@ -93,3 +93,6 @@ Define the scope, analyze, evaluate, plan approve, execute
 
 Suppose that process A is a downstream process of process B. This is an example of what kind of relation
 hierarchical
+
+Which type of gateway moves each token it receives in one of its input arcs to its output arc?
+XOR-JOIN
