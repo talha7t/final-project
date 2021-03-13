@@ -19,3 +19,5 @@ false
 Which of the following is NOT a task?
 insurance policy does not cover the damage
 
+If a task has two output arcs (also called flows), it is the same as if the task was followed by:
+And-Split
