@@ -88,3 +88,5 @@ resources
 Gateways not are responsible for controlling how a business process flows:
 false
 
+Which of the following represent the managerial approach to reengineering projects?
+Define the scope, analyze, evaluate, plan approve, execute
