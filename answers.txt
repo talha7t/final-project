@@ -102,3 +102,6 @@ true
 
 Formula: CT = p1*T1+p2*T2+…+ pn*TN
 cycle time of AND gateway
+
+Basic principle of identification of automation boundaries is: not all parts of the process can be automated:
+true
