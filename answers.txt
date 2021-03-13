@@ -1,1 +1,2 @@
-you know nothing john snow
+If a task has two input arcs, it is the same as if the task was preceded by:
+XOR-join
