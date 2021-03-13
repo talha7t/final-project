@@ -31,3 +31,5 @@ All of above
 The act of monitoring a process for its efficiency, a process that includes dimensions such as cost, timeliness, or quality is known as:
 Process control
 
+It forces the whole process to abort:
+terminate event
