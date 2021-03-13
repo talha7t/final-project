@@ -13,3 +13,9 @@ all of above
 Business Process Model and Notation or BPMN, is used to build complex business process model flowcharts, which are shared to targeted organizations and industries
 True
 
+Business process redesign is the continuous monitoring of business processes to effect small, but measurable improvements in cost reduction and value-added.
+false
+
+Which of the following is NOT a task?
+insurance policy does not cover the damage
+
