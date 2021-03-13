@@ -75,3 +75,6 @@ Processing Cost + Cost of Waste
 
 Cycle Time of a business process model is measured using:
 Processing time + waiting time
+
+What attempts to understand and measure the current process, and make performance improvements accordingly?
+Continuous Improvement
